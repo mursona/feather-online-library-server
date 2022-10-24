@@ -1,0 +1,42 @@
+[
+    {
+      "id": "01",
+      "name": "Artificial intelligence",
+      "image": "https://i.ibb.co/YD0Qq2B/7.png"
+    },
+    {
+      "id": "02",
+      "name": "Mathematics",
+      "image": "https://i.ibb.co/2ZYdP0j/9.png"
+    },
+    {
+      "id": "03",
+      "name": "Economics",
+      "image": "https://i.ibb.co/3cx3YjF/10.png"
+    },
+    {
+      "id": "04",
+      "name": "Creative Art",
+      "image": "https://i.ibb.co/P98KtyK/13.png"
+    },
+    {
+      "id": "05",
+      "name": "Business",
+      "image": "https://i.ibb.co/CBQJ7mt/8.png"
+    },
+    {
+      "id": "06",
+      "name": "Medicine",
+      "image": "https://i.ibb.co/6DFJQs8/11.png"
+    },
+    {
+      "id": "07",
+      "name": "Agriculture",
+      "image": "https://i.ibb.co/pnTttKg/6.png"
+    },
+    {
+      "id": "08",
+      "name": "Engineering",
+      "image": "https://i.ibb.co/Fnc1dpD/12.png"
+    }
+  ]
