@@ -5,8 +5,14 @@ const port = process.env.PORT || 5000;
 
 app.use(cors());
 
+const researchField = require('./data/research-field.json');
+
 app.get('/', (req, res) => {
     res.send('Learning api running');
+});
+
+app.get('/research-field', (req, res) => {
+    res.send(researchField);
 });
 
 app.listen(port, () => {
