@@ -1,7 +1,7 @@
 [
     {
       "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-      "research_id": "01",
+      "field_id": "01",
       "citation": 63,
       "title": "A Review of Deep Machine Learning",
       "author": {
@@ -20,7 +20,7 @@
     },
     {
       "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
-      "research_id": "02",
+      "field_id": "02",
       "citation": 1,
       "title": "Fractional Calculus - Theory and Applications",
       "author": {
@@ -39,7 +39,7 @@
     },
     {
       "_id": "f69a695f037cd9484cecaea37ca71011",
-      "research_id": "06",
+      "field_id": "06",
       "citation": 19,
       "title": "3D Printing and its Future in Medical World",
       "author": {
@@ -58,7 +58,7 @@
     },
     {
       "_id": "f69a695f037cd9484cecaea37ca71012",
-      "research_id": "04",
+      "field_id": "04",
       "citation": 88,
       "title": "Practice-Based Research in the Creative Arts: Foundations and Futures from the Front Line",
       "author": {
@@ -77,7 +77,7 @@
     },
     {
       "_id": "11468ed61aee84de492a8b04158a22f9",
-      "research_id": "03",
+      "field_id": "03",
       "citation": 5,
       "title": "Interest Rate Risk Measurement in Indian Banking Industry – An Analytical Research Study",
       "author": {
@@ -96,7 +96,7 @@
     },
     {
       "_id": "11468ed61aee84de492a8b04158a22f0",
-      "research_id": "05",
+      "field_id": "05",
       "citation": 8,
       "title": "Research on Business Strategy and Performance Evaluation in Collaborative Design",
       "author": {
@@ -115,7 +115,7 @@
     },
     {
       "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
-      "research_id": "06",
+      "field_id": "06",
       "citation": 2,
       "title": "Dyke-Davidoff-Masson Syndrome: A Delayed Diagnosis of an Acquired Variant",
       "author": {
@@ -134,7 +134,7 @@
     },
     {
       "_id": "a713ee936ff5574273f0f769f5c5b20e",
-      "research_id": "03",
+      "field_id": "03",
       "citation": 12,
       "title": "Loss of Confidence and Currency Crises",
       "author": {
@@ -153,7 +153,7 @@
     },
     {
       "_id": "e342b6c0c8efc8ca9e811991dc8a7900",
-      "research_id": "05",
+      "field_id": "05",
       "citation": 7,
       "title": "International Review of Business Research Papers",
       "author": {
@@ -172,7 +172,7 @@
     },
     {
       "_id": "e342b6c0c8efc8ca9e811991dc8a7901",
-      "research_id": "04",
+      "field_id": "04",
       "citation": 11,
       "title": "Creativity in the Visual Arts",
       "author": {
@@ -191,7 +191,7 @@
     },
     {
       "_id": "f06f8cc035b04bd1158e4198281915a3",
-      "research_id": "01",
+      "field_id": "01",
       "citation": 32,
       "title": "Machine learning, artificial neural networks and social research",
       "author": {
@@ -210,7 +210,7 @@
     },
     {
       "_id": "f06f8cc035b04bd1158e4198281915a4",
-      "research_id": "05",
+      "field_id": "05",
       "citation": 5,
       "title": "Development of the businesses through the companies for market research",
       "author": {
@@ -229,7 +229,7 @@
     },
     {
       "_id": "cd2b53655737cc4077542baea9f8f75d",
-      "research_id": "08",
+      "field_id": "08",
       "citation": 6,
       "title": "The engineer as judge: Engineering analysis and political economy in eighteenth century France",
       "author": {
@@ -248,7 +248,7 @@
     },
     {
       "_id": "4e6092d54c18fbd89ad59e88a1e87fbb",
-      "research_id": "02",
+      "field_id": "02",
       "citation": 5,
       "title": "The Assessment of the Performance of Calculus Students in Composition Function and Finding an Inverse Function",
       "author": {
@@ -267,7 +267,7 @@
     },
     {
       "_id": "7c4dfea0fafddc813673282a428429b7",
-      "research_id": "01",
+      "field_id": "01",
       "citation": 11,
       "title": "Artificial Neural Network Systems",
       "author": {
@@ -286,7 +286,7 @@
     },
     {
       "_id": "30af81e91ab3eafc0bcae0de62f55d5c",
-      "research_id": "04",
+      "field_id": "04",
       "citation": 13,
       "title": "The logic of practice? Art, the academy, and fish out of water",
       "author": {
@@ -305,7 +305,7 @@
     },
     {
       "_id": "df11ff9feefc37613cc3a4486ce02151",
-      "research_id": "03",
+      "field_id": "03",
       "citation": 4,
       "title": "Financial Liberalization and Inflationary Dynamics",
       "author": {
@@ -324,7 +324,7 @@
     },
     {
       "_id": "919db97c34e0778b387dd40cdfa08130",
-      "research_id": "06",
+      "field_id": "06",
       "citation": 6,
       "title": "Microwave-assisted Eco-Friendly Synthesis and Antimicrobial Evaluation of Aryl-Triazole-1,3,4-Thiadiazols",
       "author": {
@@ -343,7 +343,7 @@
     },
     {
       "_id": "374df11ae3d9b8b9ce21f4dc53f59b85",
-      "research_id": "02",
+      "field_id": "02",
       "citation": 2,
       "title": "Controlling the half-step mode operation of the variable reluctance stepper motor by using Mamdani type of fuzzy logic controller",
       "author": {
@@ -362,7 +362,7 @@
     },
     {
       "_id": "acb9b6785b62698fc6130db7615965e1",
-      "research_id": "07",
+      "field_id": "07",
       "citation": 20,
       "title": "Shifting Cultivation and its Alternatives in Bangladesh: Productivity, Risk and Discount Rate",
       "author": {
@@ -381,7 +381,7 @@
     },
     {
       "_id": "be44c843d61859cc0b87cae85c55f9db",
-      "research_id": "07",
+      "field_id": "07",
       "rating": { "number": 4.2, "badge": "Excellent" },
       "citation": 18,
       "title": "Organic Farming: Concept and Components",
@@ -401,7 +401,7 @@
     },
     {
       "_id": "1b03149c50f1bec662062d930bf46489",
-      "research_id": "08",
+      "field_id": "08",
       "citation": 4,
       "title": "Contextualizing the Code: Ethical Support and Professional Interests in the Creation and Institutionalization of the 1974 IEEE Code of Ethics",
       "author": {
@@ -420,7 +420,7 @@
     },
     {
       "_id": "7f5b80c1cdd4df0111918883eae07349",
-      "research_id": "07",
+      "field_id": "07",
 
       "citation": 100,
       "title": "Sedentary Agriculture and Its Implications on Soil Quality in Agro-pastoral Semi-arid Karamoja, Uganda",
@@ -440,7 +440,7 @@
     },
     {
       "_id": "17d266b79d2fcd850cd4d983c3aeb95f",
-      "research_id": "08",
+      "field_id": "08",
 
       "citation": 2,
       "title": "Shaping a New Man: The Schools for the State Engineers in Nineteenth-Century Spain (1830s–1900)",
