@@ -2,41 +2,49 @@
     {
       "id": "01",
       "name": "Artificial intelligence",
+      "reads": 4200,
       "image": "https://i.ibb.co/YD0Qq2B/7.png"
     },
     {
       "id": "02",
       "name": "Mathematics",
+      "reads": 5600,
       "image": "https://i.ibb.co/2ZYdP0j/9.png"
     },
     {
       "id": "03",
       "name": "Economics",
+      "reads": 1300,
       "image": "https://i.ibb.co/3cx3YjF/10.png"
     },
     {
       "id": "04",
       "name": "Creative Art",
+      "reads": 4680,
       "image": "https://i.ibb.co/P98KtyK/13.png"
     },
     {
       "id": "05",
       "name": "Business",
+      "reads": 4120,
       "image": "https://i.ibb.co/CBQJ7mt/8.png"
     },
     {
       "id": "06",
       "name": "Medicine",
+      "reads": 1245,
       "image": "https://i.ibb.co/6DFJQs8/11.png"
     },
     {
       "id": "07",
       "name": "Agriculture",
+      "reads": 1230,
       "image": "https://i.ibb.co/pnTttKg/6.png"
     },
     {
       "id": "08",
       "name": "Engineering",
+      "reads": 678,
       "image": "https://i.ibb.co/Fnc1dpD/12.png"
     }
   ]
