@@ -6,6 +6,7 @@
       "point2": "Feature Learing"
     },
     "field_id": "01",
+    "check_price": 20,
     "citation": 63,
     "title": "A Review of Deep Machine Learning",
     "author": {
@@ -13,7 +14,7 @@
       "university": "iangsu University",
       "img": "https://i1.rgstatic.net/ii/profile.image/580984970989568-1515529019238_Q64/Ben-Benuwa.jpg"
     },
-    "image_url": "https://i.ibb.co/3NBf88D/2.png",
+    "image_url": "https://i.postimg.cc/cCjBpstV/1.png",
     "details": "The rapid increase of information and accessibility in recent years has activated a paradigm shift in algorithm design for artificial intelligence. Recently, Deep Learning (a surrogate of Machine Learning) have won several contests in pattern recognition and machine learning. This review comprehensively summarises relevant studies, much of it from prior state-of-the-art techniques. This paper also discusses the motivations and principles regarding learning algorithms for deep architectures."
   },
   {
@@ -23,6 +24,7 @@
       "point2": "Numerical Method"
     },
     "field_id": "02",
+    "check_price": 20,
     "citation": 1,
     "title": "Fractional Calculus - Theory and Applications",
     "author": {
@@ -30,7 +32,7 @@
       "university": "Autonomous University of Aguascalientes",
       "img": "https://i1.rgstatic.net/ii/profile.image/335774986850304-1457066403576_Q64/J-Macias-Diaz.jpg"
     },
-    "image_url": "https://i.ibb.co/HgSJzt0/24.png",
+    "image_url": "https://i.postimg.cc/L4BcPGF2/22.png",
     "details": "In recent years, fractional calculus has witnessed tremendous progress in variousareas of sciences and mathematics."
   },
 
@@ -41,6 +43,7 @@
       "point2": "Meticulous analysis"
     },
     "field_id": "06",
+    "check_price": 20,
 
     "citation": 19,
     "title": "3D Printing and its Future in Medical World",
@@ -49,7 +52,7 @@
       "university": "Indian Spinal Injuries Centre",
       "img": "https://i1.rgstatic.net/ii/profile.image/365498551291907-1464153053697_Q64/Shakti-Goel-2.jpg"
     },
-    "image_url": "https://i.ibb.co/RCz1j6W/18.png",
+    "image_url": "https://i.postimg.cc/d15B9RsQ/16.png",
     "details": "Since the time of its inception, 3D printing has not only fascinated the researchers but also health professionals. Though the process is exciting, it involves meticulous coordination and selection process to achieve a desirable product. This review article discusses about the history of evolution of 3 D printers, their current application and future trends. Emphasis has also been laid to recognize the best suitable product and ways to prevent its misuse."
   },
   {
@@ -59,6 +62,7 @@
       "point2": "DEFINED AND DIFFERENTIATED"
     },
     "field_id": "04",
+    "check_price": 20,
     "citation": 88,
     "title": "Practice-Based Research in the Creative Arts: Foundations and Futures from the Front Line",
     "author": {
@@ -66,7 +70,7 @@
       "university": "De Montfort University",
       "img": "https://i1.rgstatic.net/ii/profile.image/272721657462789-1442033318257_Q64/Ernest-Edmonds.jpg"
     },
-    "image_url": "https://i.ibb.co/4P4mn58/5.png",
+    "image_url": "https://i.postimg.cc/vZ5tKwYN/4.png",
     "details": "This article explores the subject of practice-based research, its application in the creative arts and its role in generating new forms of knowledge in the context of the PhD. Our aim is to provide more clarity about the nature of practice-based research, the approach we advocate and how it contributes to new knowledge that can be shared and scrutinized in a form that is both accessible and rich in its representation of the full scope of creative arts research. We draw on examples spanning over 35 years of experience in supervising interdisciplinary PhD research programs in the arts, design and digital media."
   },
 
@@ -77,6 +81,7 @@
       "point2": "Risk Measurement"
     },
     "field_id": "03",
+    "check_price": 20,
     "citation": 5,
     "title": "Interest Rate Risk Measurement in Indian Banking Industry – An Analytical Research Study",
     "author": {
@@ -84,7 +89,7 @@
       "university": "Pondicherry University",
       "img": "https://i1.rgstatic.net/ii/profile.image/278968814063620-1443522756235_Q64/B-Charumathi.jpg"
     },
-    "image_url": "https://i.ibb.co/NjQ0wDx/13-1.png",
+    "image_url": "https://i.postimg.cc/jqkcwh3Z/15.png",
     "details": "Assets and Liabilities Management (ALM) is a dynamic process of planning, organizing, coordinating and controlling the assets and liabilities – their mixes, volumes, maturities, yields and costs in order to achieve a specified Net Interest Income (NII). The NII is the difference between interest income and interest expenses and the basic source of banks profitability. The easing of controls on interest rates has led to higher interest rate volatility in India. Hence, there is a need to measure and monitor the interest rate exposure of Indian banks. This paper entitled “Interest Rate Risk Measurement in Indian Banking Industry – An Analytical Research Study” is aimed at measuring the Interest Rate Risk in one of the public sector banks in India, viz., Indian Bank, by using Gap Analysis Technique. Using publicly available information, this paper attempts to assess the interest rate risk carried by the Indian Bank in March 2006, 2007, & 2008. The findings revealed that the bank is exposed to interest rate risk."
   },
   {
@@ -94,6 +99,7 @@
       "point2": "Collaborative Design"
     },
     "field_id": "05",
+    "check_price": 20,
     "citation": 8,
     "title": "Research on Business Strategy and Performance Evaluation in Collaborative Design",
     "author": {
@@ -101,7 +107,7 @@
       "university": "The University of Sheffield",
       "img": "https://i1.rgstatic.net/ii/profile.image/975162681880578-1609508309343_Q64/Yichuan-Wang-2.jpg"
     },
-    "image_url": "https://i.ibb.co/njR8R2G/12-1.png",
+    "image_url": "https://i.postimg.cc/LXp7WVFz/11.png",
     "details": "Owing to the fast changing environment and the competition pressure of globalization, enterprises are turning away from the business mode of individual management toward the cooperation method of the collaborative model. Enterprises using cooperation involving information transparency can receive requests immediately, and more quickly respond to customer needs. Collaborative design is highly iterative and interactive process, involving a group of designers, engineers, consultants and the client. The research aims to understand the business model, B to B interaction and performance evaluation for collaborative design.The research selected three leading companies in golf, PC server and LCD industry to do the case study. The results highlight how collaborative design can build up new business model, make B to B more efficient and further improve business performance."
   },
 
@@ -112,6 +118,7 @@
       "point2": "Refractory  seizures"
     },
     "field_id": "06",
+    "check_price": 23,
     "citation": 2,
     "title": "Dyke-Davidoff-Masson Syndrome: A Delayed Diagnosis of an Acquired Variant",
     "author": {
@@ -119,7 +126,7 @@
       "university": "National Institute of mental",
       "img": "https://i1.rgstatic.net/ii/profile.image/584970124922880-1516479154116_Q64/Tseetam-Kumar.jpg"
     },
-    "image_url": "https://i.ibb.co/ftX5500/16.png",
+    "image_url": "https://i.postimg.cc/2ymgJ7vs/18.png",
     "details": "Dyk-Davidof-Masson Syndrome (DDMS) is an important cause of intractable and drug-resistant seizures. It has varied clinical presentation and history with distinct neuroimaging features. Here, we describe a female patient presented with recurrent intractable convulsion, mental retardation, hemiparesis, and characteristic neuroimaging features of cerebral hemiatrophy, calvarial thickening, and ipsilateral hyperpneumatization of the frontal sinuses which is suggestive of DDMS. Early institution of neuroimaging in patients with intractable epilepsy will make early diagnosis and better outcome."
   },
 
@@ -130,6 +137,7 @@
       "point2": "Currency Crisis"
     },
     "field_id": "03",
+    "check_price": 20,
     "citation": 12,
     "title": "Loss of Confidence and Currency Crises",
     "author": {
@@ -137,7 +145,7 @@
       "university": "Kingston University London",
       "img": "https://i1.rgstatic.net/ii/profile.image/278844377452550-1443493088312_Q64/Willy-Spanjers-2.jpg"
     },
-    "image_url": "https://i.ibb.co/Nj4d0f4/15.png",
+    "image_url": "https://i.postimg.cc/1XRdm5tX/13.png",
     "details": "In this paper loss of confidence is interpreted as an increase in the ambiguity experienced by international investors, who may invest either in illiquid high yield or liquid low yield assets. For emerging countries with fragile financial systems, a model of twin crises is obtained in this setting. Unsurprisingly, an exogenous interim loss of confidence may trigger a crisis, even when the 'fundamentals' remain unchanged. But monetary authorities' failure to recognize ex-ante ambiguity has a similar effect, as investors seem to 'overreact' on bad news, which causes them to experience an endogenous loss of confidence. The stylized facts of the South-East Asian crisis fit the model. The model also conforms to the basic structure of the EU-accession countries in the run-up to their adoption of the Euro. Transparency, competence, and political stability offer some protection against currency crises by increasing confidence. The best protection, however, is provided by a stable financial system, as this enables share prices to absorb the impact of a loss of confidence."
   },
 
@@ -148,6 +156,7 @@
       "point2": "Leadership"
     },
     "field_id": "05",
+    "check_price": 20,
     "citation": 7,
     "title": "International Review of Business Research Papers",
     "author": {
@@ -155,7 +164,7 @@
       "university": "New College of the Humanities",
       "img": "https://i1.rgstatic.net/ii/profile.image/652190578380811-1532505759688_Q64/Kasim-Randeree.jpg"
     },
-    "image_url": "https://i.ibb.co/zsGRDSB/11-1.png",
+    "image_url": "https://i.postimg.cc/LXp7WVFz/11.png",
     "details": "Dubai, being a metropolitan city of the UAE, accommodates the largest population of the country which is approximately 1,321,453 (Census, 2005) out of 3.1 Million. The construction industry in Dubai employs approximately 393,535 individuals, which makes the construction industry the largest sector in the emirate (Census, 2005). The emirate’s ambitions continue to grow with over $100bn worth of projects in the pipeline. Large property developers, such as Nakheel, Emaar, Dubai Properties and Dubai International Properties, have announced projects worth $26 billion (about Dh95.49 billion), while Dubai Municipality, DEWA and the Department of Civil Aviation are planning projects costing another $20 billion (about Dh73.46 billion). Some of the main development activities underway in Dubai are the world’s biggest man-made islands (Palm Islands), the world’s tallest building (Burj Dubai), Dubailand city, Arabian Canal, Waterfront, Jumairah Towers, and a world’s high-tech metro network in the city."
   },
   {
@@ -165,6 +174,7 @@
       "point2": "Shifting deﬁnition of art"
     },
     "field_id": "04",
+    "check_price": 50,
     "citation": 11,
     "title": "Creativity in the Visual Arts",
     "author": {
@@ -172,7 +182,7 @@
       "university": "University of Vienna",
       "img": "https://i1.rgstatic.net/ii/profile.image/466656909631490-1488271085558_Q64/Matthew-Pelowski.jpg"
     },
-    "image_url": "https://i.ibb.co/HGfCHTg/6-1.png",
+    "image_url": "https://i.postimg.cc/MKpkxtM5/6.png",
     "details": "One only has to consider the rich history of art and the evolving range ofartists and modes of visual expression to realize its importance as well as the uniquechallenge inherent in its study. Since the dawn of human ability to create visualimages, those with a special ability in this domain have probably always helda special place of reverence. Prototypical genius creators that often come to mindwhen thinking about creativity are often artists. A visit to an elementary school –ora studio or museum –will also conﬁrm that we have a special respect, and sometimesfear (Mitchell, 1987), for visual creative ability. Technically speaking, the largenumber of overlapping abilities that must be utilized in visual art making –percep-tion, memory, motor control, language, spatial reasoning, not to mention imagina-tion –also makes art one of our most complex human activities."
   },
 
@@ -183,6 +193,7 @@
       "point2": "Nonlinear models"
     },
     "field_id": "01",
+    "check_price": 29,
     "citation": 32,
     "title": "Machine learning, artificial neural networks and social research",
     "author": {
@@ -190,7 +201,7 @@
       "university": "Sapienza University of Rome",
       "img": "https://i1.rgstatic.net/ii/profile.image/278938933841925-1443515633055_Q64/Giovanni-Di-Franco.jpg"
     },
-    "image_url": "https://i.ibb.co/Q8CkRy9/1.png",
+    "image_url": "https://i.postimg.cc/FsMxGH4S/3.png",
     "details": "Machine learning (ML), and particularly algorithms based on artificial neural networks (ANNs), constitute a field of research lying at the intersection of different disciplines such as mathematics, statistics, computer science and neuroscience. This approach is characterized by the use of algorithms to extract knowledge from large and heterogeneous data sets. In addition to offering a brief introduction to ANN algorithms-based ML, in this paper we will focus our attention on its possible applications in the social sciences and, in particular, on its potential in the data analysis procedures. In this regard, we will provide three examples of applications on sociological data to assess the impact of ML in the study of relationships between variables. Finally, we will compare the potential of ML with traditional data analysis models."
   },
   {
@@ -200,6 +211,7 @@
       "point2": "Economic Development"
     },
     "field_id": "05",
+    "check_price": 10,
     "citation": 5,
     "title": "Development of the businesses through the companies for market research",
     "author": {
@@ -207,7 +219,7 @@
       "university": "University for Business and Technology",
       "img": "https://i1.rgstatic.net/ii/profile.image/717794823901190-1548147030589_Q64/Agim-Zuzaku.jpg"
     },
-    "image_url": "https://i.ibb.co/sKkmGn7/10-1.png",
+    "image_url": "",
     "details": "Market research as the main part of the marketing is very important for the development of businesses as well as for the opportunity in the creation new jobs. e purpose of this paper is to provide the incentives for the businesses to conduct market research while justifying that the market research is an important factor in the decision making process of the businesses and it impacts the development of their business activities by creating a safe decision-making through market research. In order to convert successfully any business ideas with high capital incomes, it is important for the companies to understand and to determine the right value of their investment. For this particular reason, it is important to address the thesis about how the investment in the market research proves the usefulness or the prot for the company."
   },
 
@@ -218,6 +230,7 @@
       "point2": "Political Economy"
     },
     "field_id": "08",
+    "check_price": 20,
     "citation": 6,
     "title": "The engineer as judge: Engineering analysis and political economy in eighteenth century France",
     "author": {
@@ -225,7 +238,7 @@
       "university": "Harvard University",
       "img": "https://i1.rgstatic.net/ii/profile.image/417851442778126-1476634955887_Q64/Antoine-Picon.jpg"
     },
-    "image_url": "https://i.ibb.co/v3WmkS2/9-1.png",
+    "image_url": "https://i.postimg.cc/ZnJGWxfT/9.png",
     "details": "The eighteenth century represents a major turning point in French engineers' conception and practice of calculation. This turning point can be described as a transition between the traditional use of arithmetical and geometric tools and the introduction of a new set of mathematical instruments based on calculus. This transition takes place within the epistemological frame provided by the Enlightenment analytical approach to science and technology. It is above all inseparable from a shift in the conception of technological efficiency that presents a strong connection to emerging political and economical values. Towards the end of the eighteenth century, engineering and political economy connect. This connection enables French engineers to present themselves as impartial judges of public interest."
   },
   {
@@ -235,6 +248,7 @@
       "point2": "Scoring rubrics"
     },
     "field_id": "02",
+    "check_price": 20,
     "citation": 5,
     "title": "The Assessment of the Performance of Calculus Students in Composition Function and Finding an Inverse Function",
     "author": {
@@ -242,7 +256,7 @@
       "university": "Sohar University",
       "img": "https://i1.rgstatic.net/ii/profile.image/1091198932529152-1637173507294_Q64/Mohammad-Tashtoush.jpg"
     },
-    "image_url": "https://i.ibb.co/Pwbb2kY/23.png",
+    "image_url": "https://i.postimg.cc/B6f900HP/24.png",
     "details": "This study aimed to assess the performance of Calculus students for some mathematical tasks, the procedures they follow in Composition Functions and finding an inverse function, and to determine the interpretation of these procedures. The study used the mixed methodology and the sample consisted of three students from Sohar University at Sultanate of Oman who were enrolled in the Calculus course during the spring semester at the academic year 2021/2022. The students were exposed to a Quiz exam in which their performance was assess by using two Scoring Rubrics (Inclusive and Analytical), to determinations individual interviews were conducted with them that were analyzed and discussed, behind their failure to complete some parts of solving the quiz and their failure to verify their solution"
   },
   {
@@ -252,6 +266,7 @@
       "point2": "Convolutional Neural Network"
     },
     "field_id": "01",
+    "check_price": 20,
     "citation": 11,
     "title": "Artificial Neural Network Systems",
     "author": {
@@ -259,7 +274,7 @@
       "university": "Cyprus International University",
       "img": "https://i1.rgstatic.net/ii/profile.image/884138118762497-1587806362136_Q128/Roza-Dastres.jpg"
     },
-    "image_url": "https://i.ibb.co/Gknk45Z/3.png",
+    "image_url": "https://i.postimg.cc/MKMDyjhx/2.png",
     "details": "Artificial Neural Networks is a calculation method that builds several processing units based on interconnected connections. The network consists of an arbitrary number of cells or nodes or units or neurons that connect the input set to the output. It is a part of a computer system that mimics how the human brain analyzes and processes data. Self-driving vehicles, character recognition, image compression, stock market prediction, risk analysis systems, drone control, welding quality analysis, computer quality analysis, emergency room testing, oil and gas exploration and a variety of other applications all use artificial neural networks. Predicting consumer behavior, creating and understanding more sophisticated buyer segments, marketing automation, content creation and sales forecasting are some applications of the ANN systems in the marketing. In this paper, a review in recent development and applications of the Artificial Neural Networks is presented in order to move forward the research filed by reviewing and analyzing recent achievements in the published papers."
   },
   {
@@ -269,6 +284,7 @@
       "point2": "Practical knowledge"
     },
     "field_id": "04",
+    "check_price": 26,
     "citation": 13,
     "title": "The logic of practice? Art, the academy, and fish out of water",
     "author": {
@@ -276,7 +292,7 @@
       "university": "University of Canberra",
       "img": "https://i1.rgstatic.net/ii/profile.image/883809549549570-1587728025602_Q64/Jen-Webb-2.jpg"
     },
-    "image_url": "https://i.ibb.co/b3jC4tX/4.png",
+    "image_url": "https://i.postimg.cc/fR11cNHq/5.png",
     "details": "The various institutional imperatives that have arisen in past decades have reshaped not only the academy but also the careers, responsibilities and practices of artistacademics. This transformational process has been characterized by both extensive and intensive competition. In a series of moves that might have been choreographed by Pierre Bourdieu, those involved have struggled with each other and with policies, procedures, shifting values and discourses to refine their understandings of the changing academic landscape, to acquire the capital necessary for success, and to achieve a better position within the field. In this paper I draw on Bourdieu’s work and extend his analysis of the discipline of sociology to the creative arts disciplines in contemporary Australian universities. Bourdieu’s distinction between practical knowledge and reflexive practice is central to my discussion about ways in which artist-academics might find a better fit for themselves, their practices and their values, within the academic domain."
   },
   {
@@ -286,6 +302,7 @@
       "point2": "Semi-industrialized"
     },
     "field_id": "03",
+    "check_price": 20,
     "citation": 4,
     "title": "Financial Liberalization and Inflationary Dynamics",
     "author": {
@@ -293,7 +310,7 @@
       "university": "University of Pretoria",
       "img": "https://i1.rgstatic.net/ii/profile.image/279832463200260-1443728666726_Q64/Rangan-Gupta.jpg"
     },
-    "image_url": "https://i.ibb.co/f2P1vCC/14.png",
+    "image_url": "https://i.postimg.cc/j2Ch3W2H/14.png",
     "details": "The paper analyzes the effects of financial liberalization on inflation. We develop a monetary and endogenous growth, dynamic general equilibrium model with financial intermediaries subjected to obligatory high cash reserves requirement, serving as the source of financial repression. When calibrated to four Southern European semi-industrialized countries, namely Greece, Italy, Spain and Portugal, that typically had high reserve requirements, the model indicates a positive inflation-financial repression relationship irrespective of the the specification of preferences. But the strength of the relationship obtained from the model is found to be much smaller in size than the corresponding empirical estimates."
   },
   {
@@ -303,6 +320,7 @@
       "point2": "Microwave irradiation"
     },
     "field_id": "06",
+    "check_price": 23,
     "citation": 6,
     "title": "Microwave-assisted Eco-Friendly Synthesis and Antimicrobial Evaluation of Aryl-Triazole-1,3,4-Thiadiazols",
     "author": {
@@ -310,7 +328,7 @@
       "university": "Amity University Greater Noida",
       "img": "https://i1.rgstatic.net/ii/profile.image/1018196278657024-1619768318473_Q64/Shalini-Jaiswal-2.jpg"
     },
-    "image_url": "https://i.ibb.co/LQkrX0j/17.png",
+    "image_url": "https://i.postimg.cc/MT65R38r/17.png",
     "details": "Due to the growing awareness about environmental pollution and environmental legislation, recent years have witnessed a phenomenal increase in the application of microwave irradiation (MW) in organic synthesis. Heterocyclic compounds are abundant in nature and are of great significance to life because their structural subunits exist in many natural products such as vitamins, hormones, and antibiotics; hence, they have attracted considerable attention in the design of biologically active molecules and advanced organic chemistry. The application of molecular diversity technique to drug discovery is a multidisciplinary effort in organic synthesis. Medicinal chemistry concerns with the discovery, development, interpretation and the identification of mechanism of action of biologically active compounds at the molecular level."
   },
   {
@@ -320,6 +338,7 @@
       "point2": "Fuzzifier"
     },
     "field_id": "02",
+    "check_price": 25,
     "citation": 2,
     "title": "Controlling the half-step mode operation of the variable reluctance stepper motor by using Mamdani type of fuzzy logic controller",
     "author": {
@@ -327,7 +346,7 @@
       "university": "Al-Furat Al-Awsat Technical University",
       "img": "https://i1.rgstatic.net/ii/profile.image/856276632342528-1581163666735_Q64/Mustafa-Mhawesh.jpg"
     },
-    "image_url": "https://i.ibb.co/3vVWLyh/22.png",
+    "image_url": "https://i.postimg.cc/wv5KxGQf/23.png",
     "details": "This paper proposed the step angle controlling of the half-step mode operation of the variable reluctance stepper motor (VRSM) by using Mamdani type of fuzzy logic controller (FLC). The MATLAB program was used to achieve the approach. The VRSM that was used in this paper has six stator poles and four rotor poles. The VRSM has three phases that represent the input variables and the step angle represents the output variable in the FLC in MATLAB. Membership functions were created for the input and output variables. The rules of the FLC were built in MATLAB. The theoretical step angles results of the VRSM were obtained by using mathematically equation while the practical results were obtained by using MATLAB. The obtained results are closer to the actual results depending on the comparison between the theoretical and practical readings. These results were written in table and were plotted in figure."
   },
   {
@@ -337,6 +356,7 @@
       "point2": "Shifting Cultivation"
     },
     "field_id": "07",
+    "check_price": 20,
     "citation": 20,
     "title": "Shifting Cultivation and its Alternatives in Bangladesh: Productivity, Risk and Discount Rate",
     "author": {
@@ -344,7 +364,7 @@
       "university": "Bangladesh Agricultural Research Institute",
       "img": "https://i1.rgstatic.net/ii/profile.image/280258432520206-1443830225675_Q64/M-A-Miah.jpg"
     },
-    "image_url": "https://i.ibb.co/BqQF89C/21.png",
+    "image_url": "https://i.postimg.cc/vTzCdxtc/21.png",
     "details": "This study evaluates the economic feasibility of replacing shifting cultivation (Jhum)with settled agriculture and new soil conservation technology based on an assessment of the farmers' risk and corresponding discount rates in the Khagrachari hill district of Bangladesh. Shifting cultivation can cause top soil loss, degradation of soil quality, and decrease in crop yield but significant improvements in yields could also be achieved with increased fallowing. On the other hand, the use of soil conservation technology is found to be highly profitable. The study finds that the social discount rate is a crucial factor determining the switch from shifting cultivation to new soil conservation methods. Jhum farmers are likely to switch to the new technology in a 3-year rotation scheme only if their rate of discount is below 58%."
   },
   {
@@ -354,6 +374,7 @@
       "point2": "Animal husbandry"
     },
     "field_id": "07",
+    "check_price": 20,
     "rating": { "number": 4.2, "badge": "Excellent" },
     "citation": 18,
     "title": "Organic Farming: Concept and Components",
@@ -362,7 +383,7 @@
       "university": "ICAR-Indian Institute of Oilseeds",
       "img": "https://i1.rgstatic.net/ii/profile.image/568873749577733-1512641479964_Q64/Hari-Prakash-Meena.jpg"
     },
-    "image_url": "https://i.ibb.co/wz5823C/20.png",
+    "image_url": "https://i.postimg.cc/BQSdBNJD/20.png",
     "details": "Organic farming is a production management system excluding of all synthetic off-farm inputs but rely upon on-farm agronomic, biological and mechanical methods like crop rotations, crop residues, animal manures, off-farm organic waste, mineral grade rock additives and biological system of nutrient mobilization and plant protection, etc which promotes and enhances biodiversity, biological cycles and agro-ecosystem health."
   },
   {
@@ -372,6 +393,7 @@
       "point2": "Professional practice"
     },
     "field_id": "08",
+    "check_price": 30,
     "citation": 4,
     "title": "Contextualizing the Code: Ethical Support and Professional Interests in the Creation and Institutionalization of the 1974 IEEE Code of Ethics",
     "author": {
@@ -379,7 +401,7 @@
       "university": "Colorado School of Mines",
       "img": "https://i1.rgstatic.net/ii/profile.image/273645771685912-1442253644991_Q64/Dean-Nieusma.jpg"
     },
-    "image_url": "https://i.ibb.co/kHhqyj9/7-1.png",
+    "image_url": "https://i.postimg.cc/Kvq6YLt2/7.png",
     "details": "In many engineering ethics classes, codes of ethics are presented as if they are self-evident yardsticks for gauging ethical decisions in engineering. In this article, we argue that focusing solely on the content of ethics codes without examining the professional contexts in which codes are created – and are made meaningful – misses important opportunities to understand the engineering profession's ethical aspirations and how such codes affect engineers’ professional identities. Our analysis demonstrates a ‘contextualized reading’ of an engineering code of ethics through a historical case study consisting of two successive episodes: In the first episode, we show how engineers’ yearning for ethical support and their competing interpretations of professional interests catalyzed the creation of the first Institute of Electrical and Electronics Engineers (IEEE) Code of Ethics in 1974; the second episode of the case documents the complex institutional processes followed by IEEE members to ensure compliance with the code of ethics in professional practice. For engineering studies scholars, tracing the historical context of codes of ethics offers a pathway to understand engineers’ ‘existential struggles’ – that is, how engineers responded to major challenges and crises as a profession."
   },
   {
@@ -389,6 +411,7 @@
       "point2": "Soil Quality"
     },
     "field_id": "07",
+    "check_price": 35,
     "citation": 100,
     "title": "Sedentary Agriculture and Its Implications on Soil Quality in Agro-pastoral Semi-arid Karamoja, Uganda",
     "author": {
@@ -396,7 +419,7 @@
       "university": "University of Nairobi",
       "img": "https://i1.rgstatic.net/ii/profile.image/377975171239936-1467127711112_Q64/Richard-Onwonga.jpg"
     },
-    "image_url": "https://i.ibb.co/QNK7ghK/19.png",
+    "image_url": "https://i.postimg.cc/65MFjRQP/19.png",
     "details": "Uganda Government embarked on promoting sedentary agriculture in Karamoja agro-pastoral semi-arid livelihood zone, which experience rapid environmental and high soil quality (SQ) decline. However, studies on sedentary agriculture’s impact on soil quality using farmer’s knowledge is limited. Consequently, a survey was carried out in Karamoja (Iriiri, Matany Sub-counties of Napak of districts and Rengen sub-county of Kotido) to determine the soil quality indicator parameters based on the farmers knowledge in order to build a local soil knowledge data base to better inform sustainable land use strategies. Using a semi-structured questionnaire, forty indigenous farmers per sub-county, were interviewed between August and September, 2015. The study took into account the social demographic characteristics of the people, farming enterprises, methods of crops production, crops yields trends, causes of the perceived yields trends and soil quality indicators."
   },
   {
@@ -406,6 +429,7 @@
       "point2": "Selection and evaluation"
     },
     "field_id": "08",
+    "check_price": 30,
     "citation": 2,
     "title": "Shaping a New Man: The Schools for the State Engineers in Nineteenth-Century Spain (1830s–1900)",
     "author": {
@@ -413,7 +437,7 @@
       "university": "Universidad Autónoma de Madrid",
       "img": "https://i1.rgstatic.net/ii/profile.image/773271943389188-1561373806939_Q64/Darina-Martykanova.jpg"
     },
-    "image_url": "https://i.ibb.co/pzb5XDF/8-1.png",
+    "image_url": "",
     "details": "The education of Spanish engineers-civil servants became standardised since the 1830s, leaning on institutional precedents dating to the late eighteenth and early nineteenth centuries. Henceforth, studies in a state-run special school constituted an important milestone and unifying element in the careers of these men. The education in special schools not only provided the future engineers with what was considered knowledge necessary for carrying out their professional duties, but it was also supposed to strengthen certain human characteristics desirable in elite civil servants in general, and corps engineers in particular. While some of these elements were introduced with more or less explicit intention to obtain specific results, others seem to have been developed as products of institutional dynamics or were combination of both. One way or another, the contents of engineers’ education, the criteria and methods of selection and evaluation, explicit and unspoken rules of students’ life, all these created very exceptional settings that shaped the young men into a unique profile. I examine how the different mechanisms of selection, evaluation and discipline and other elements of the school life in engineering schools besides the curricula, shaped the young men who studied there into a specific figure of Spanish state engineer, an elite man with a strong corporate (as in “corps”) identity, individual and collective self-confidence and a sense of entitlement to make decisions on behalf of the Nation."
   }
 ]
