@@ -3,10 +3,10 @@
     "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
     "others_info": {
       "point1": "Deep Learing",
-      "point2": "Feature Learing"
+      "point2": "Feature Learing",
+      "check_price": 20
     },
     "field_id": "01",
-    "check_price": 20,
     "citation": 63,
     "title": "A Review of Deep Machine Learning",
     "author": {
@@ -21,10 +21,10 @@
     "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
     "others_info": {
       "point1": "Fractional Order",
-      "point2": "Numerical Method"
+      "point2": "Numerical Method",
+      "check_price": 29
     },
     "field_id": "02",
-    "check_price": 20,
     "citation": 1,
     "title": "Fractional Calculus - Theory and Applications",
     "author": {
@@ -33,17 +33,17 @@
       "img": "https://i1.rgstatic.net/ii/profile.image/335774986850304-1457066403576_Q64/J-Macias-Diaz.jpg"
     },
     "image_url": "https://i.postimg.cc/L4BcPGF2/22.png",
-    "details": "In recent years, fractional calculus has witnessed tremendous progress in variousareas of sciences and mathematics."
+    "details": "In recent years, fractional calculus has witnessed tremendous progress in variousareas of sciences and mathematics. The research aims to understand the business model, B to B interaction and performance evaluation for collaborative design.The research selected three leading companies in golf, PC server and LCD industry to do the case study. The results highlight how collaborative design can build up new business model, make B to B more efficient and further improve business performance."
   },
 
   {
     "_id": "f69a695f037cd9484cecaea37ca71011",
     "others_info": {
       "point1": "Medicine inception",
-      "point2": "Meticulous analysis"
+      "point2": "Meticulous analysis",
+      "check_price": 28
     },
     "field_id": "06",
-    "check_price": 20,
 
     "citation": 19,
     "title": "3D Printing and its Future in Medical World",
@@ -59,10 +59,10 @@
     "_id": "f69a695f037cd9484cecaea37ca71012",
     "others_info": {
       "point1": "PRACTICE-BASED RESEARCH",
-      "point2": "DEFINED AND DIFFERENTIATED"
+      "point2": "DEFINED AND DIFFERENTIATED",
+      "check_price": 67
     },
     "field_id": "04",
-    "check_price": 20,
     "citation": 88,
     "title": "Practice-Based Research in the Creative Arts: Foundations and Futures from the Front Line",
     "author": {
@@ -78,10 +78,10 @@
     "_id": "11468ed61aee84de492a8b04158a22f9",
     "others_info": {
       "point1": "Interest volatility",
-      "point2": "Risk Measurement"
+      "point2": "Risk Measurement",
+      "check_price": 56
     },
     "field_id": "03",
-    "check_price": 20,
     "citation": 5,
     "title": "Interest Rate Risk Measurement in Indian Banking Industry – An Analytical Research Study",
     "author": {
@@ -96,10 +96,10 @@
     "_id": "11468ed61aee84de492a8b04158a22f0",
     "others_info": {
       "point1": "Business Strategy",
-      "point2": "Collaborative Design"
+      "point2": "Collaborative Design",
+      "check_price": 45
     },
     "field_id": "05",
-    "check_price": 20,
     "citation": 8,
     "title": "Research on Business Strategy and Performance Evaluation in Collaborative Design",
     "author": {
@@ -115,10 +115,10 @@
     "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
     "others_info": {
       "point1": "Dyke-Davidoff-Masson syndrome",
-      "point2": "Refractory  seizures"
+      "point2": "Refractory  seizures",
+      "check_price": 34
     },
     "field_id": "06",
-    "check_price": 23,
     "citation": 2,
     "title": "Dyke-Davidoff-Masson Syndrome: A Delayed Diagnosis of an Acquired Variant",
     "author": {
@@ -134,10 +134,10 @@
     "_id": "a713ee936ff5574273f0f769f5c5b20e",
     "others_info": {
       "point1": "Fixed Exchange Rate",
-      "point2": "Currency Crisis"
+      "point2": "Currency Crisis",
+      "check_price": 40
     },
     "field_id": "03",
-    "check_price": 20,
     "citation": 12,
     "title": "Loss of Confidence and Currency Crises",
     "author": {
@@ -153,10 +153,10 @@
     "_id": "e342b6c0c8efc8ca9e811991dc8a7900",
     "others_info": {
       "point1": "Organisational Behaviour",
-      "point2": "Leadership"
+      "point2": "Leadership",
+      "check_price": 43
     },
     "field_id": "05",
-    "check_price": 20,
     "citation": 7,
     "title": "International Review of Business Research Papers",
     "author": {
@@ -171,10 +171,10 @@
     "_id": "e342b6c0c8efc8ca9e811991dc8a7901",
     "others_info": {
       "point1": "Impressionist paintings",
-      "point2": "Shifting deﬁnition of art"
+      "point2": "Shifting deﬁnition of art",
+      "check_price": 34
     },
     "field_id": "04",
-    "check_price": 50,
     "citation": 11,
     "title": "Creativity in the Visual Arts",
     "author": {
@@ -190,10 +190,10 @@
     "_id": "f06f8cc035b04bd1158e4198281915a3",
     "others_info": {
       "point1": "Linear models",
-      "point2": "Nonlinear models"
+      "point2": "Nonlinear models",
+      "check_price": 23
     },
     "field_id": "01",
-    "check_price": 29,
     "citation": 32,
     "title": "Machine learning, artificial neural networks and social research",
     "author": {
@@ -208,10 +208,10 @@
     "_id": "f06f8cc035b04bd1158e4198281915a4",
     "others_info": {
       "point1": "Market Research",
-      "point2": "Economic Development"
+      "point2": "Economic Development",
+      "check_price": 21
     },
     "field_id": "05",
-    "check_price": 10,
     "citation": 5,
     "title": "Development of the businesses through the companies for market research",
     "author": {
@@ -227,10 +227,10 @@
     "_id": "cd2b53655737cc4077542baea9f8f75d",
     "others_info": {
       "point1": "Engineering Science",
-      "point2": "Political Economy"
+      "point2": "Political Economy",
+      "check_price": 26
     },
     "field_id": "08",
-    "check_price": 20,
     "citation": 6,
     "title": "The engineer as judge: Engineering analysis and political economy in eighteenth century France",
     "author": {
@@ -245,10 +245,10 @@
     "_id": "4e6092d54c18fbd89ad59e88a1e87fbb",
     "others_info": {
       "point1": "Rubric of correction",
-      "point2": "Scoring rubrics"
+      "point2": "Scoring rubrics",
+      "check_price": 28
     },
     "field_id": "02",
-    "check_price": 20,
     "citation": 5,
     "title": "The Assessment of the Performance of Calculus Students in Composition Function and Finding an Inverse Function",
     "author": {
@@ -263,10 +263,10 @@
     "_id": "7c4dfea0fafddc813673282a428429b7",
     "others_info": {
       "point1": "Artificial Neural Networks",
-      "point2": "Convolutional Neural Network"
+      "point2": "Convolutional Neural Network",
+      "check_price": 42
     },
     "field_id": "01",
-    "check_price": 20,
     "citation": 11,
     "title": "Artificial Neural Network Systems",
     "author": {
@@ -281,10 +281,10 @@
     "_id": "30af81e91ab3eafc0bcae0de62f55d5c",
     "others_info": {
       "point1": "Artist-academics",
-      "point2": "Practical knowledge"
+      "point2": "Practical knowledge",
+      "check_price": 24
     },
     "field_id": "04",
-    "check_price": 26,
     "citation": 13,
     "title": "The logic of practice? Art, the academy, and fish out of water",
     "author": {
@@ -299,10 +299,10 @@
     "_id": "df11ff9feefc37613cc3a4486ce02151",
     "others_info": {
       "point1": "Financial liberalization",
-      "point2": "Semi-industrialized"
+      "point2": "Semi-industrialized",
+      "check_price": 20
     },
     "field_id": "03",
-    "check_price": 20,
     "citation": 4,
     "title": "Financial Liberalization and Inflationary Dynamics",
     "author": {
@@ -317,10 +317,10 @@
     "_id": "919db97c34e0778b387dd40cdfa08130",
     "others_info": {
       "point1": "Mercapto-s-triazole with aromatic acid",
-      "point2": "Microwave irradiation"
+      "point2": "Microwave irradiation",
+      "check_price": 22
     },
     "field_id": "06",
-    "check_price": 23,
     "citation": 6,
     "title": "Microwave-assisted Eco-Friendly Synthesis and Antimicrobial Evaluation of Aryl-Triazole-1,3,4-Thiadiazols",
     "author": {
@@ -335,10 +335,10 @@
     "_id": "374df11ae3d9b8b9ce21f4dc53f59b85",
     "others_info": {
       "point1": "Inference Engine",
-      "point2": "Fuzzifier"
+      "point2": "Fuzzifier",
+      "check_price": 21
     },
     "field_id": "02",
-    "check_price": 25,
     "citation": 2,
     "title": "Controlling the half-step mode operation of the variable reluctance stepper motor by using Mamdani type of fuzzy logic controller",
     "author": {
@@ -353,10 +353,10 @@
     "_id": "acb9b6785b62698fc6130db7615965e1",
     "others_info": {
       "point1": "Soil Erosion",
-      "point2": "Shifting Cultivation"
+      "point2": "Shifting Cultivation",
+      "check_price": 48
     },
     "field_id": "07",
-    "check_price": 20,
     "citation": 20,
     "title": "Shifting Cultivation and its Alternatives in Bangladesh: Productivity, Risk and Discount Rate",
     "author": {
@@ -371,10 +371,10 @@
     "_id": "be44c843d61859cc0b87cae85c55f9db",
     "others_info": {
       "point1": "Biological managemnet",
-      "point2": "Animal husbandry"
+      "point2": "Animal husbandry",
+      "check_price": 17
     },
     "field_id": "07",
-    "check_price": 20,
     "rating": { "number": 4.2, "badge": "Excellent" },
     "citation": 18,
     "title": "Organic Farming: Concept and Components",
@@ -390,10 +390,10 @@
     "_id": "1b03149c50f1bec662062d930bf46489",
     "others_info": {
       "point1": "Engineering code of ethics",
-      "point2": "Professional practice"
+      "point2": "Professional practice",
+      "check_price": 53
     },
     "field_id": "08",
-    "check_price": 30,
     "citation": 4,
     "title": "Contextualizing the Code: Ethical Support and Professional Interests in the Creation and Institutionalization of the 1974 IEEE Code of Ethics",
     "author": {
@@ -408,10 +408,10 @@
     "_id": "7f5b80c1cdd4df0111918883eae07349",
     "others_info": {
       "point1": "Agro Pastoral",
-      "point2": "Soil Quality"
+      "point2": "Soil Quality",
+      "check_price": 13
     },
     "field_id": "07",
-    "check_price": 35,
     "citation": 100,
     "title": "Sedentary Agriculture and Its Implications on Soil Quality in Agro-pastoral Semi-arid Karamoja, Uganda",
     "author": {
@@ -426,10 +426,10 @@
     "_id": "17d266b79d2fcd850cd4d983c3aeb95f",
     "others_info": {
       "point1": "State engineer",
-      "point2": "Selection and evaluation"
+      "point2": "Selection and evaluation",
+      "check_price": 45
     },
     "field_id": "08",
-    "check_price": 30,
     "citation": 2,
     "title": "Shaping a New Man: The Schools for the State Engineers in Nineteenth-Century Spain (1830s–1900)",
     "author": {
