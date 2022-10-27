@@ -27,6 +27,17 @@ app.get('/field/:id', (req, res) => {
     }
 });
 
+app.get('/checkout/:id', (req, res) => {
+    const id = req.params.id;
+    if (id === '08') {
+        res.send(research);
+    }
+    else{
+        const field_research =  research.filter(r => r.field_id === id);
+        res.send(field_research);
+    }
+});
+
 app.get('/research', (req, res) =>{
     res.send(research);
 });
