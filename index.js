@@ -7,6 +7,7 @@ app.use(cors());
 
 const researchField = require('./data/research-field.json');
 const research = require('./data/research.json');
+const checkout = require('./data/research.json');
 
 app.get('/', (req, res) => {
     res.send('Learning api running');
@@ -27,15 +28,15 @@ app.get('/field/:id', (req, res) => {
     }
 });
 
+app.get('/checkout', (req, res) =>{
+    res.send(checkout);
+});
+
 app.get('/checkout/:id', (req, res) => {
     const id = req.params.id;
-    if (id === '08') {
-        res.send(research);
-    }
-    else{
-        const field_research =  research.filter(r => r.field_id === id);
-        res.send(field_research);
-    }
+    const selectedCheckout = checkout.find(c => c._id === id);
+    res.send(selectedCheckout)
+
 });
 
 app.get('/research', (req, res) =>{
